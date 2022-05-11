@@ -14,7 +14,7 @@ git config --global user.email - Configura o email de cadastro do Git
 
 git init - Inicializa o repositorio  
 git add nomearquivo.html - Esse comando permite adicionar um arquivo especifico para ser enviado ao git no Commit  
-gid add . - Adiciona todos os arquivos para ser enviado ao git no Commit  
+git add . - Adiciona todos os arquivos para ser enviado ao git no Commit  
 git rm --cached nomearquivo.html - Remove o arquivo especifico do envio no commit  
 git commit -m "Escreva uma mensagem"- Envia os arquivos que foram adicionados pelos comandos "git add" para o repositorio no Git  
 
